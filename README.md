@@ -1,4 +1,4 @@
-[![badge: Download]][badge url: Download] [![badge: Build Status]][badge url: Build Status] [![badge: Coverage Status]][badge url: Coverage Status] [![badge: LICENSE]][LICENSE.md] [![badge: Semver 2.0.0]][badge url: Semver 2.0.0] [![badge: gratipay]][badge url: gratipay] 
+[![badge: Download]][badge url: Download] [![badge: LICENSE]][LICENSE.md] [![badge: Semver 2.0.0]][badge url: Semver 2.0.0] [![badge: Build Status]][badge url: Build Status] [![badge: Coverage Status]][badge url: Coverage Status] [![badge: gratipay]][badge url: gratipay] 
 
 # [project-template]
 
@@ -28,7 +28,7 @@ Want to contribute? Great stuff! Please use the issue system that github provide
 
 ## License
 
-[project-template] is licensed under **Apache License 2.0**, see **[LICENSE.md]** for more information.
+**[project-template]** is licensed under **Apache License 2.0**, see **[LICENSE.md]** for more information.
 
 ## Authors
 
